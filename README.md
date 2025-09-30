@@ -60,7 +60,7 @@ This repository is maintained by the **CheSTA Technical Team**.
 
 For queries, suggestions, or collaborations, contact us at:
 
-* Email: [cst@iitg.ac.in](mailto:cst@iitg.ac.in)
+* Email: [chesta@iitg.ac.in](mailto:chesta@iitg.ac.in)
 * Website: (comming soon)
 * Association: CheSTA, Department of Chemistry, IIT Guwahati
 
